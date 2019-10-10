@@ -17,13 +17,13 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.shanbu.app</string>
+                <string>com.ioc.swapc</string>
                 <key>bundle-version</key>
                 <string>1.0</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>走哒闪步</string>
+                <string>IOC兑换平台</string>
             </dict>
         </dict>
     </array>
